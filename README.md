@@ -1,0 +1,2 @@
+# paratini
+ primeiro repositorio 
