@@ -1,5 +1,6 @@
 # Paratini
  primeiro repositorio
 
- REPOSITORIO TESTE DE SITE 
+ REPOSITORIO  LANDING PAGE COM HTML e CSS 
+ BASEADO NO TRABALHO DE Rafaella Ballerini
   
